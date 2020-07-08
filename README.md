@@ -2,11 +2,13 @@ This release includes the [code](code) and the [dataset](https://github.com/pres
 
 ```
 @inproceedings{zhang-cc20,
-author = {Zhang, Hailong and Hao, Yu and Latif, Sufian and Bassily, Raef and Rountev, Atanas},
-title = {A Study of Event Frequency Profiling with Differential Privacy},
-year = {2020},
-booktitle = {Proceedings of the 29th International Conference on Compiler Construction},
-pages = {51–62}
+    title = {A Study of Event Frequency Profiling with Differential Privacy},
+    author = {Zhang, Hailong and Hao, Yu and Latif, Sufian and Bassily, Raef and Rountev, Atanas},
+    booktitle = {Proceedings of the 29th International Conference on Compiler Construction},
+    year = {2020},
+    pages = {51–62},
+    url = {https://doi.org/10.1145/3377555.3377887},
+    doi = {10.1145/3377555.3377887}
 }
 ```
 
