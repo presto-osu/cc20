@@ -1,6 +1,6 @@
-This directory contains the code for the static analysis,
-
-## Structure
+This directory contains the code for the static analysis and randomization
+described in the paper. Below are the folders that contain essential
+code and results:
 
 - `common` contains the common utility classes and the Matlab code
 - `gator` contains the code for the analysis to find "<=" pairs
