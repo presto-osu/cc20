@@ -9,14 +9,22 @@ This directory contains the code for the static analysis,
 
 ## Run
 
-To run the analysis, download and extract [apks.tar.gz](https://github.com/presto-osu/cc20/releases/tag/dataset) to `../apks` and execute the commands:
+Clone the repository:
 
 ```bash
+$ git clone https://github.com/presto-osu/cc20.git
+$ cd cc20
+```
+
+To run the analysis, download and extract [apks.tar.gz](https://github.com/presto-osu/cc20/releases/tag/dataset) to `cc20/apks` and execute the commands:
+
+```bash
+$ cd code
 $ bash runall_gator.sh
 $ python process_le_pairs.py
 ```
 
-To run the randomization, download and extract [dataset.tar.gz](https://github.com/presto-osu/cc20/releases/tag/dataset) to `../dataset` and execute the following commands:
+To run the randomization, download and extract [dataset.tar.gz](https://github.com/presto-osu/cc20/releases/tag/dataset) to `cc20/dataset` and execute the following commands:
 
 ```bash
 $ mkdir log
