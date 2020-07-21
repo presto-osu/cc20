@@ -1,4 +1,4 @@
-This release includes the [code](code) and the [dataset](https://github.com/presto-osu/cc20/releases/tag/dataset) described in the following CC'20 [paper](http://web.cse.ohio-state.edu/presto/pubs/cc20.pdf):
+This release includes the [code](code) and the [dataset](https://github.com/presto-osu/cc20/releases/tag/dataset) described in the following [paper](http://web.cse.ohio-state.edu/presto/pubs/cc20.pdf):
 
 ```
 @inproceedings{zhang-cc20,
